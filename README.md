@@ -20,6 +20,9 @@ A Skill is a folder of instructions (and sometimes helper scripts) that teaches 
 | **prd-development** | Turn discovery notes and requirements into an engineering-ready PRD (Problem Alignment / Solution Alignment format). |
 | **user-story** | Write user stories in Mike Cohn format with Gherkin acceptance criteria, ready for development. |
 | **swot-analysis** | Produce a structured SWOT (Strengths, Weaknesses, Opportunities, Threats) with strategic recommendations for a company, product, or decision. |
+| **okr-drafting-alignment-checker** | Draft OKRs and check that key results are measurable and tied to the objective. |
+| **retro-facilitator** | Structure raw team input into a retro doc (what went well / what didn't / actions), and track recurring themes over time. |
+| **stakeholder-update-drafter** | Turn sprint/project status into a polished weekly/biweekly update email or Slack post, audience-aware (exec vs eng vs cross-functional). |
 
 ## How to use these
 
